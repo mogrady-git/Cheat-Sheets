@@ -40,6 +40,11 @@ https://www.typescriptlang.org/ - superset of JavaScript
 
 ## Java
 - https://docs.oracle.com/javase/7/docs/api/ - Java™ Platform, Standard Edition 7 API Specification
+- https://www.tutorialspoint.com/java/java_pdf_version.htm 
+- https://cheatography.com/tag/java/ 
+
+## C#
+https://www.tutorialspoint.com/csharp/pdf/csharp_quick_guide.pdf
 
 # NPM - https://www.npmjs.com/
 1. date-fns - https://date-fns.org/ - Javascript Date's Libary
